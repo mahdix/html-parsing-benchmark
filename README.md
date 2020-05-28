@@ -2,7 +2,7 @@
 
 This repository contains two sets of source code + some bash scripts to compare performance of HTML parsing in Java vs. Go.
 
-You can see corresponding blog post [here]().
+You can see corresponding blog post [here](https://mahdix.com/blog/2020/05/28/benchmarking_html_parsers_golang_vs_java/).
 
 ### How to run it myself?
 
